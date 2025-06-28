@@ -20,7 +20,7 @@ def wishme():
             speak("Hello sir it your morning time please utilize it anyway ")
 
       elif hour>=12 and hour<18:
-            speak("hello suryansh sir i am your jarvis it is your evening time lets fuck of the work shutup all the thoughts of your mind and completely go to sleep ")
+            speak("hello suryansh sir i am your jarvis it is your evening time go to sleep ")
         
       else:
             speak("Hello suryansh boss it is your night time please utilize it sir")
